@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="logo"/>
-</p>
-
 # Learn Python 3
 
 [![Build Status](https://travis-ci.org/lmorillas/learn-python3.svg?branch=master)](https://travis-ci.org/lmorillas/learn-python3)
@@ -39,9 +35,9 @@ See [contributing](https://github.com/lmorillas/learn-python3/blob/master/CONTRI
 1. **File I\O** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/file_io.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/file_io_exercise.ipynb)
 1. **Classes** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/classes.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/classes_exercise.ipynb)
 1. **Exceptions** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/exceptions.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/exceptions_exercise.ipynb)
-1. **Modules and packages** [notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/modules_and_packages.ipynb)
+1. **Modules and packages** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/modules_and_packages.ipynb)
 1. **Debugging** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/debugging.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/debugging_exercise.ipynb)
-1. **Goodies of the Standard Library - part 1** [notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/std_lib.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/std_lib1_exercise.ipynb)
+1. **Goodies of the Standard Library - part 1** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/std_lib.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/std_lib1_exercise.ipynb)
 1. **Testing with pytest - part 2** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/testing2.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/exercises/testing2_exercise.ipynb)
 1. **Virtual environment** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/venv.ipynb)
 1. **Project structure** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/beginner/notebooks/project_structure.ipynb)
@@ -60,7 +56,7 @@ Python is a powerful language which contains many features not presented in most
 1. **Idiomatic Python exercise** [[exercise]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/intermediate/exercises/idiomatic_python_exercise.ipynb)
 
 #### Step up your `pytest` game
-1. **Efficient use of fixtures** [notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/intermediate/notebooks/pytest_fixtures.ipynb)
+1. **Efficient use of fixtures** [[notebook]](http://nbviewer.jupyter.org/github/lmorillas/learn-python3/blob/master/notebooks/intermediate/notebooks/pytest_fixtures.ipynb)
 1. Other tips and tricks
 
 #### Best practices
